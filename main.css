@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+
+html {
+    background-color: azure;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+.form {
+    font-weight: 100;
+}
